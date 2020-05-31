@@ -1,0 +1,8 @@
+<HTML>
+<HEAD>
+<title>My title </title>
+<script>
+</script>
+</head>
+</body>
+</html> 
